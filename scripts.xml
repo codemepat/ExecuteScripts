@@ -1,0 +1,12 @@
+<Release ver="1.0">
+<script desc="Create list of doc files">
+    <name>ListDocFiles.py</name>
+    <args>.doc .pdf</args>
+    <enable>True</enable>
+</script>
+<script desc="Change access permission on files">
+    <name>ChangePerm.bat</name>
+    <args></args>
+    <enable>True</enable>
+</script>
+</Release>
